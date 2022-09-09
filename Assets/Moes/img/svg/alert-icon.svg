@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>6E0C5478-28A1-4540-A4D4-1E77C604270E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M212.029287,24.9570891 C211.052178,24.9570891 210.544079,24.3317822 210.544079,23.5500594 C210.544079,22.8074257 211.110812,22.1625149 211.970653,22.1625149 C212.908673,22.1625149 213.455861,22.7488515 213.455861,23.5305149 C213.455861,24.2730891 212.928218,24.9570891 212.029287,24.9570891 L212.029287,24.9570891 Z M210.798099,12.0591089 C210.798099,11.5118614 211.130356,11.0428515 212.009743,11.0428515 C212.947762,11.0428515 213.260475,11.5118614 213.260475,12.098198 L213.260475,14.2869505 L212.85004,20.9704752 L211.247564,20.9704752 L210.798099,14.2869505 L210.798099,12.0591089 Z M212,9 C207.029386,9 203,13.0293861 203,18 C203,22.9705545 207.029386,27 212,27 C216.970554,27 221,22.9705545 221,18 C221,13.0293861 216.970554,9 212,9 L212,9 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.108843537   0 0 0 0 0.108660299   0 0 0 0 0.108293823  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Variations/Extras" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CTA-Events" transform="translate(-931.000000, -796.000000)">
+            <g id="Forms" transform="translate(0.000000, 658.000000)">
+                <g id="error-field" transform="translate(735.000000, 136.000000)">
+                    <g id="alert-icon">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#E8653A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
